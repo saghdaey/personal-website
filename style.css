@@ -42,7 +42,6 @@ audio{
 nav{
 	margin: 0 auto;
 	overflow: hidden;
-	background: black;
 	float: right;
 }
 
@@ -50,20 +49,16 @@ nav ul {
     padding: 0;
     width:100%;
     margin: 0 auto;
-    font-color:white;
-
 }
 
 nav ul li  {
-	display: inline;
 	float: right;
-	list-style-type: none;
 	padding-top:10px;
     padding:5px;
 	line-height:2em;
-	color: white;
-	text-decoration: none;
+	display: inline;
 }
+
 
 
 h2	{
@@ -91,14 +86,14 @@ div {
       font-color:black;
     }
 
- p{
+ p  {
  	font-family:helvetica;
  	line-height: 1.05;
  	font-size: 15px;
  	color:black;
  }
 
-input:hover{
+input:hover	{
 	color: DeepPink;
 	background-color: transparent;
 }
